@@ -1,0 +1,16 @@
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\bin\Debug\netcoreapp2.1\Pokesharp.deps.json
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\bin\Debug\netcoreapp2.1\Pokesharp.runtimeconfig.json
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\bin\Debug\netcoreapp2.1\Pokesharp.runtimeconfig.dev.json
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\bin\Debug\netcoreapp2.1\Pokesharp.dll
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\bin\Debug\netcoreapp2.1\Pokesharp.pdb
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\obj\Debug\netcoreapp2.1\Pokesharp.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\obj\Debug\netcoreapp2.1\Pokesharp.RazorAssemblyInfo.cache
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\obj\Debug\netcoreapp2.1\Pokesharp.RazorAssemblyInfo.cs
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\obj\Debug\netcoreapp2.1\Pokesharp.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\obj\Debug\netcoreapp2.1\Pokesharp.AssemblyInfo.cs
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\obj\Debug\netcoreapp2.1\Pokesharp.RazorTargetAssemblyInfo.cache
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\obj\Debug\netcoreapp2.1\Pokesharp.dll
+C:\Users\giova\Desktop\Faculdade\Projeto C#\BACK\API\obj\Debug\netcoreapp2.1\Pokesharp.pdb
